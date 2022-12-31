@@ -1,0 +1,13 @@
+.close{
+    background-color: #A12123;
+}
+.check{
+    background-color: #3B8238;
+}
+.priority_high{
+    background-color: #919498;
+}
+
+*{
+    font-family: "HurmeRegular";
+}

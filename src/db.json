@@ -1,0 +1,96 @@
+{ 
+  "values" :
+  [
+    {
+    "id":0,
+    "title":"Lisansüstü programlara alınacak öğrenci kontenjanlarının ilanı",
+    "firstDate":"2023/1/13",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":1,
+    "title":"İnteraktif başvuruların alınması (Yabancı uyruklu öğrenciler elden başvuru yapacaklardır.)",
+    "firstDate":"2023/1/16",
+    "endDate":"2023/1/28",
+    "url":null
+    },
+    {
+    "id":2,
+    "title":"Doktora programları için mülakat sınavı yapılması (Yabancı uyruklu öğrenciler dâhil) / Saat:10.00 ",
+    "firstDate":"2023/2/1",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":3,
+    "title":"Değerlendirme sonuçlarının ilanı (asıl ve uzaktan öğretim tezsiz yüksek lisans programları yedek)",
+    "firstDate":"2023/2/3",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":4,
+    "title":"Asıl olarak kazanan adayların belgelerinin Enstitü tarafından kontrol edilmesi ve kesin kayıt işlemlerinin Öğrenci İşleri Daire Başkanlığı’nda yapılması",
+    "firstDate":"2023/2/7",
+    "endDate":"2023/2/11",
+    "url":null
+    },
+    {
+    "id":5,
+    "title":"İnteraktif Değerlendirme Sonuçlarına Göre kazanan adaylardan muafiyet sınavına girecek öğrenciler Yabancı Diller Yüksekokulu’na sınava gireceklerine dilekçeyle müracaat etme",
+    "firstDate":"2023/2/7",
+    "endDate":"2023/2/11",
+    "url":null
+    },
+    {
+    "id":6,
+    "title":"Yedek listeden kayıt yaptıracak Uzaktan Öğretim Tezsiz Yüksek Lisans programları adayların ilanı",
+    "firstDate":"2023/2/15",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":7,
+    "title":"Yedek listeden yerleştirilen Uzaktan Öğretim Tezsiz Yüksek Lisans programları adayların belgelerinin Enstitü tarafından kontrol edilmesi ve kesin kayıt işlemlerinin Öğrenci İşleri Daire Başkanlığı’nda yapılması",
+    "firstDate":"2023/2/15",
+    "endDate":"2023/2/17",
+    "url":null
+    },
+    {
+    "id":8,
+    "title":"Yabancı dil muafiyet ve seviye tespit sınav tarihi (KTÜ Kanuni Kampüsü Yabancı Diller Yüksekokulu / Ortahisar / Trabzon)",
+    "firstDate":"2023/2/16",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":9,
+    "title":"Saat: 10:00 Yazılı Sınavı",
+    "firstDate":"2023/2/16",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":10,
+    "title":"Saat: 13:00 Yazma Sınavı",
+    "firstDate":"2023/2/16",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":11,
+    "title":"Saat: 15:00 Dinleme Sınavı",
+    "firstDate":"2023/2/16",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":12,
+    "title":"Yabancı dil hazırlık sınıfından muaf olanlar ve muafiyet sınavına girip başarılı olan tüm öğrencilerin, interaktif ders yazılımlarının yapılması (Yabancı uyruklu öğrenciler dâhil)",
+    "firstDate":"2023/2/14",
+    "endDate":"2023/2/18",
+    "url":null
+    }
+  ]
+}
